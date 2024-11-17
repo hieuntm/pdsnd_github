@@ -56,8 +56,6 @@ def get_filters():
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     day = get_day_input()
 
-    print('-'*40)
-
     return city, month, day
 
 
