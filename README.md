@@ -1,24 +1,31 @@
-> **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 
-Include the date you created this project and README file.
+Nov 17, 2024
 
-### Project Title
+# Post your Work on GitHub
 
-Replace the Project Title
+### Project title
+
+-   Explore US Bikeshare in US
 
 ### Description
 
-Describe what your project is about and what it does
+In this project, It is all about how I simulate workflow for Bikeshare in project 2 with Git
+
+### List of software, firmware and hardware you may require.
+
+-   Installing GIT tool : https://git-scm.com/downloads.
+-   Installing Python: https://www.python.org/downloads/
 
 ### Files used
 
-Include the files used
+-   The following file contains necessary commands used to simulate workflow for Bikeshare in project 2 by using Python:
+    -   Git Commands Documentation.pdf
 
 ### Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+-   [Git documentation is very usefull.](https://git-scm.com/doc)
+-   [Python documentation is very details in this link.](https://www.python.org/doc/)
 
 ### Add Test
 
