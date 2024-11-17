@@ -99,8 +99,6 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
 
         
-    print('-'*40)
-
     return df
 
 
